@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xg5GBAZcZRM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lumet\\source\\repos\\Unimar\\Pokemon.API\\Pokemon.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lumet\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\lumet\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

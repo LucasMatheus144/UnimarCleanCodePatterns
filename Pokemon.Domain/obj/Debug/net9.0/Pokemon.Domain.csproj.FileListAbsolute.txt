@@ -1,0 +1,14 @@
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\bin\Debug\net9.0\Pokemon.Domain.exe
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\bin\Debug\net9.0\Pokemon.Domain.deps.json
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\bin\Debug\net9.0\Pokemon.Domain.runtimeconfig.json
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\bin\Debug\net9.0\Pokemon.Domain.dll
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\bin\Debug\net9.0\Pokemon.Domain.pdb
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\Pokemon.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\Pokemon.Domain.AssemblyInfoInputs.cache
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\Pokemon.Domain.AssemblyInfo.cs
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\Pokemon.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\Pokemon.Domain.dll
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\refint\Pokemon.Domain.dll
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\Pokemon.Domain.pdb
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\Pokemon.Domain.genruntimeconfig.cache
+C:\Users\lumet\source\repos\Unimar\Pokemon.Domain\obj\Debug\net9.0\ref\Pokemon.Domain.dll
